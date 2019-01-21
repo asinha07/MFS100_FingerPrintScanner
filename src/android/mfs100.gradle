@@ -1,0 +1,3 @@
+dependencies {
+	compile (name : 'mfs100', ext: 'jar')
+}

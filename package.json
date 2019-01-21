@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-mfs100",
+  "version": "1.0.0",
+  "description": "A plugin boilerplate for using MFS100 SDK with Native JS Apps",
+  "cordova": {
+    "id": "cordova-plugin-mfs100",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Aman Sinha",
+  "license": "ISC"
+}
