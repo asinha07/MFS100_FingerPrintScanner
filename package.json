@@ -13,5 +13,10 @@
     "cordova-android"
   ],
   "author": "Aman Sinha",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "cordova": "^8.1.2",
+    "cordova-js": "^5.0.0",
+    "ionic-native": "^2.9.0"
+  }
 }
